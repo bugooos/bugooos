@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raktim Baidya
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is NEXU
 =====================================================================================================================================
 
 Hi, I'm Nexu — a passionate cybersecurity enthusiast and dedicated bug bounty hunter. I love diving deep into the world of web security, constantly learning, testing, and discovering new ways to break and protect applications. My journey started with curiosity and grew into a mission to educate and inspire others in the security community. I create content focused on cybersecurity awareness, hands-on techniques, and real-world exploitation scenarios. Whether it's analyzing complex vulnerabilities or guiding beginners through their first CTF challenge, I enjoy making security more accessible and engaging. Beyond the hacks and writeups, I believe in building a community that thrives on curiosity, collaboration, and continuous learning.
