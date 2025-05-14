@@ -13,7 +13,7 @@ Hi, I'm Nexu — a passionate cybersecurity enthusiast and dedicated bug bounty 
                     </p>
                     
 ### Socials
-                  
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2771783" style='border:none;'></iframe>                  
                   
 <p align="left">
                       <a href="https://www.github.com/bugooos" target="_blank" rel="noreferrer">
@@ -51,5 +51,3 @@ Hi, I'm Nexu — a passionate cybersecurity enthusiast and dedicated bug bounty 
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
                     </picture>
                     </a></p>
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2771783" style='border:none;'></iframe>
