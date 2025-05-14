@@ -12,8 +12,7 @@ Hi, I'm Nexu — a passionate cybersecurity enthusiast and dedicated bug bounty 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
                     </p>
                     
-### Socials
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2771783" style='border:none;'></iframe>                  
+### Socials                
                   
 <p align="left">
                       <a href="https://www.github.com/bugooos" target="_blank" rel="noreferrer">
