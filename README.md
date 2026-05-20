@@ -114,7 +114,7 @@ current_focus {
 
 ## 📌 Featured Project
 
-### 🔧 [Nedit — Nested File Analysis Tool](https://github.com/raktimbaidya)
+### 🔧 [Nedit — Nested File Analysis Tool](https://github.com/bugooos/nedit)
 > A Python GUI tool built for efficient file analysis during security assessments.
 
 - 🔍 Multi-level nested search with **positive/negative keyword filtering**
@@ -148,10 +148,10 @@ current_focus {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raktimbaidya&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raktimbaidya&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=bugooos&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugooos&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raktimbaidya&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6600&currStreakLabel=00ff41" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bugooos&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6600&currStreakLabel=00ff41" />
 
 </div>
 
@@ -163,13 +163,13 @@ current_focus {
   <a href="mailto:raktimbaidya2021@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/raktimbaidya" target="_blank">
+  <a href="https://www.linkedin.com/in/raktim-baidya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://hackerone.com/raktimbaidya" target="_blank">
+  <a href="https://hackerone.com/n3xu" target="_blank">
     <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
   </a>
-  <a href="https://bugcrowd.com/raktimbaidya" target="_blank">
+  <a href="https://bugcrowd.com/bugooos" target="_blank">
     <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
   </a>
 </p>
