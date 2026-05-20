@@ -32,11 +32,11 @@ I'm a **Cybersecurity student** and **Bug Bounty Hunter** from Kolkata, India �
 ## 🎯 Current Focus
 
 ```python
-current_focus = {
-    "learning"   : ["Advanced Web App Pentesting", "Active Directory Attacks", "Cloud Security"],
-    "hunting"    : ["Bug Bounty Programs", "OWASP Top 10 Vulnerabilities"],
-    "building"   : ["Security Tools in Python", "Open Source Projects"],
-    "goal_2025"  : "Land a Full-Time Penetration Testing Role 🚀"
+current_focus {
+    learning ["Advanced Web App Pentesting" "Active Directory Attacks" "Cloud Security"]
+    hunting ["Bug Bounty Programs" "OWASP Top 10 Vulnerabilities"]
+    building ["Security Tools in Python" "Open Source Projects"]
+    goal_2025 "Land a Full-Time Penetration Testing Role 🚀"
 }
 ```
 
