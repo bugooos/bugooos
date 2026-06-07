@@ -20,7 +20,7 @@ raktim@kali:~$ _
 
 I'm a **Cybersecurity student** and **Bug Bounty Hunter** from Kolkata, India 🇮🇳, passionate about breaking things ethically and making the internet a safer place — one vulnerability at a time.
 
-- 🎓 Pursuing **B.Sc.(H) in Advanced Networking & Cybersecurity** @ Swami Vivekananda University (2023–2027)
+- 🎓 Pursuing **B.Sc.(H) in Advanced Networking & Cybersecurity** @ Swami Vivekananda University (2023–2026)
 - 🐛 **Bug Bounty Hunter** on HackerOne, Bugcrowd & Intigriti
 - 🔍 Disclosed **5+ vulnerabilities** across public programs (Info Disclosure, Broken Auth, Client-Side Bypass)
 - 🛠️ Built [**Nedit**](https://github.com/raktimbaidya) — a Python GUI tool for nested file analysis, 80% faster than grep
